@@ -4,7 +4,7 @@
   "description": "SimpleCart is online shopping portal built on nodejs /  mongodb / knockoutjs / bootstrap",
   "main": "server.js",
   "dependencies": {
-    "ejs": "^0.8.4",
+    "ejs": "^3.1.6",
     "ejs-locals": "^1.0.2",
     "express": "^3.2.5",
     "http-proxy-middleware": "^0.17.4",
